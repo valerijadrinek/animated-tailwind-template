@@ -38,5 +38,5 @@ On scrolling down, animations on page are appearing section per section.
 
 # 💻 Development
 1. run index.html on your browser
-2. git clone https://github.com/valerijadrinek/robot-joke-teller.git
-3. github pages https://valerijadrinek.github.io/robot-joke-teller/
+2. git clone https://github.com/valerijadrinek/animated-tailwind-template.git
+3. github pages https://valerijadrinek.github.io/animated-tailwind-template/
